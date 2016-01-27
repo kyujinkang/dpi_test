@@ -14,6 +14,10 @@ int multi(int value1, int value2) {
 	return value1 * value2;
 }
 
+int numberMulti(int a, int b, int c) {
+	return a*b*c;
+}
+
 int main() {
 	cout << "Hello world!\n" << endl;
 	return 0;
