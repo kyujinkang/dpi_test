@@ -14,6 +14,10 @@ int multi(int value1, int value2) {
 	return value1 * value2;
 }
 
+int div(int value1, int value2) {
+	return value1 / value2;
+}
+
 int numberMulti(int a, int b, int c) {
 	return a*b*c;
 }
