@@ -2,8 +2,8 @@
 
 using namespace std;
 
-int sum(int a, int b) {
-	return a + b;
+int sum(int var1, int var2) {
+	return var1 + var2;
 }
 
 int main() {
